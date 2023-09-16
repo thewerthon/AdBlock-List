@@ -5,11 +5,20 @@
 ! Expires: 7 days
 ! Homepage: https://github.com/thewerthon/AdBlock-List
 
+@@||google.com*^$document
+@@||new-tab-page*^$document
+@@||ntp.msn.com*^$document
+@@||settings*^$document
+@@||microsoft.com*^$document
+@@||sharepoint.com*^$document
+@@||office.com*^$document
+@@||login.caixa.gov.br/*^$document
+@@||192.168*/*^$document
+@@||172.16*/*^$document
+@@||10.0*/*^$document
+
 meups.com.br##DIV[id="header_super"]
 meups.com.br##DIV[class="pg-lazy"]
 meups.com.br##DIV[id="home_sidebar_desktop_01"][class="ad-siderbar-size"]
 meups.com.br##DIV[id="home_content_02"][class="ad-load-more-size"]
 meups.com.br##DIV[class="ad-fixed-block"]
-
-meups.com.br##.header_super
-meups.com.br##header_super
