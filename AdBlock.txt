@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
 ! Title: Lista Pessoal
-! Last modified: 16/09/2023
+! Last modified: 2023-09-16
 ! Expires: 7 days
-! Homepage: 
+! Homepage: https://github.com/thewerthon/AdBlock-List
 
 meups.com.br##DIV[id="header_super"]
 meups.com.br##DIV[class="pg-lazy"]
