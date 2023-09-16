@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: Lista Pessoal
+! Last modified: 16/09/2023
+! Expires: 7 days
+! Homepage: 
+
+meups.com.br##DIV[id="header_super"]
+meups.com.br##DIV[class="pg-lazy"]
+meups.com.br##DIV[id="home_sidebar_desktop_01"][class="ad-siderbar-size"]
+meups.com.br##DIV[id="home_content_02"][class="ad-load-more-size"]
+meups.com.br##DIV[class="ad-fixed-block"]
